@@ -119,7 +119,7 @@ git push -u origin master
 #### push 和 pull ！
 使用 `git push` 可以把目前已提交的檔案推上雲端，`git pull` 則可以把雲端檔案拉下來。
 
-如果想把新的 branch 推上去，第一次必須使用 `git push --set-upstream origin`。
+如果想把新的 branch 推上去，第一次必須使用 `git push -u origin`。
 
 #### 複製一份到電腦！
 輸入 `git clone 你的專案連結` 就可以從你的帳戶複製一份專案下來，你可以在 GitHub 雲端 `fork` 別人的專案，再 `clone` 到本地電腦！
