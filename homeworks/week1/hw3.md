@@ -53,3 +53,5 @@ mkdir wifi
 cd wifi
 touch afu.js
 ```
+
+## 以上是 CLI 的簡短解說！
