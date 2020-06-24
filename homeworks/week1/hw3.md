@@ -8,7 +8,7 @@ command line 其實就是電腦可以直接看懂的指令。
 
 ---
 ### 如何使用？
-IOS 系統可以搜尋內建程式 Termianl.app，使用 IOS / Linux 通用的 command line 語法進行操作。
+iOS 系統可以搜尋內建程式 Termianl.app，使用 IOS / Linux 通用的 command line 語法進行操作。
 
 Windows 系統可以搜尋內建程式 CMD，使用 windows 的 command line 語法進行操作。
 
