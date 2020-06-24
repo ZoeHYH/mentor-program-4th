@@ -10,13 +10,13 @@ command line 其實就是電腦可以直接看懂的指令。
 ### 如何使用？
 IOS 系統可以搜尋內建程式 Termianl.app，使用 IOS / Linux 通用的 command line 語法進行操作。
 
-windows 系統可以搜尋內建程式 CMD，使用 windows 的 command line 語法進行操作。
+Windows 系統可以搜尋內建程式 CMD，使用 windows 的 command line 語法進行操作。
 
 如果想在 windows 上使用 IOS / Linux 通用語法，我們可以安裝 [git](https://git-scm.com/) 使用其中的 git CMD 進行操作。
 
 ---
 ### 那我們開始吧！首先，確認我們的所在地！
-打開 git CMD 。
+打開 git Bash 。
 
 我們輸入 `pwd` 確認位置，就是我們平常使用視窗瀏覽檔案時的位置！
 
